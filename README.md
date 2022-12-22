@@ -3,5 +3,7 @@
 ## Amaç
 <details>
   deneme
+<details>
+
 
 ## Kurulum
