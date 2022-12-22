@@ -11,11 +11,11 @@
 ## Kurulum
 <details>
   <summary>:zap: Docs</summary>
-  ```python
+  ````python
   cd TgDcActivity
   
   pip install -r requirements.txt
   
   python main.py
-  ```
+  ````
 </details>
