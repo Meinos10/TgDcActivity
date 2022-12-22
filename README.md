@@ -1,1 +1,6 @@
 # TgDcActivity
+
+## Amaç
+
+
+## Kurulum
