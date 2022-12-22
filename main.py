@@ -65,10 +65,10 @@ async def st(ctx):
                     n+=1
                 else:
                     if str(i.type) == "ActivityType.playing":
-			try:
-                        	text += f"**[`{n}`]\nActivity: `Playing!`\n\n- Name: `{i.name}`\n\n- `{i.details}`**\n\n"
-			except AttributeError:
-				text += f"**[`{n}`]\nActivity: `Playing!`\n\n- Name: `{i.name}`\n**\n\n"
+                        try:
+                            text += f"**[`{n}`]\nActivity: `Playing!`\n\n- Name: `{i.name}`\n\n- `{i.details}`**\n\n"
+                        except AttributeError:
+                            text += f"**[`{n}`]\nActivity: `Playing!`\n\n- Name: `{i.name}`\n**\n\n"
                     elif str(i.type) == "ActivityType.listening":
                         text += f"**[`{n}`]\nActivity: `Listening!`\n\n- Name: `{i.title}`\n\n- Artist: `{i.artist}`**\n\n"
                     n+=1
