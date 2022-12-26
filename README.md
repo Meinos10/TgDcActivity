@@ -1,6 +1,7 @@
 # TgDcActivity
 
 - Discord'da bulununan etkinlik özelliği yardımı ile Telegram'da aynı özelliği yapabilmeye yarar.
+- Örnek proje: https://t.me/suaneyapiyorum
 
 # SETUP - KURULUM 
 
