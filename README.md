@@ -4,10 +4,14 @@
 
 # SETUP - KURULUM 
 
-```python
+```bash
 cd TgDcActivity
 
 pip install -r requirements.txt
 
 python main.py
 ```
+
+# CONTACT
+
+[Telegram](https://t.me/ReWoxi)<br>``Discord: emree#0010``
