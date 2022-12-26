@@ -14,4 +14,7 @@ python main.py
 
 # CONTACT
 
-[Telegram](https://t.me/ReWoxi)<br>``Discord: emree#0010``
+[Telegram](https://t.me/ReWoxi)<br><br>``Discord: emree#0010``
+
+
+- Bakmışken takip ve star atmayı unutma ❤️‍🔥
