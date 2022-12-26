@@ -4,7 +4,7 @@
 
 # SETUP - KURULUM 
 
-```bash
+```python
 cd TgDcActivity
 
 pip install -r requirements.txt
